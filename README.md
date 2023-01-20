@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhishekprasad08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi 👋, I'm Abhishekprasad08</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Prasad</h1>
 <h3 align="center">We learn every day about how to use technology in the best way!!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekprasad08&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprasad08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekprasad08" alt="abhishekprasad08" /></a> </p>
 
@@ -30,11 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekprasad08&show_icons=true&locale=en" alt="abhishekprasad08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekprasad08&" alt="abhishekprasad08" /></p>
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Abhishekprasad08/Abhishekprasad08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
