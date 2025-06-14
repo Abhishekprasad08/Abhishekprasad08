@@ -88,29 +88,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishekprasad08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekprasad08&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekprasad08&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishekprasad08&theme=tokyo-night)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
@@ -129,28 +106,6 @@
   - *Supervised, unsupervised, and deep learning models on real-world datasets*
 - 🎓 **Algorithmic Trading & Quantitative Analysis Using Python** - Udemy - 2025
   - *Trading strategies development and backtesting using Python and NumPy*
-
----
-
-## 🚀 Featured Projects
-
-### 🏙️ [City-wise Product Sales Analysis](https://github.com/Abhishekprasad08/sales-analysis)
-*March 2024 | PostgreSQL, Tableau, Excel*
-- 📊 Queried sales data from **50+ cities** using PostgreSQL and visualized trends in Tableau dashboards
-- ⚡ Automated data pipeline using Excel and SQL scripts, **improving report turnaround by 40%**
-- 🎯 Enabled stakeholders to filter and analyze city-specific KPIs interactively
-
-### 🖼️ [Image Recognition GUI](https://github.com/Abhishekprasad08/image-recognition-gui)
-*February 2024 | Python, TensorFlow, OpenCV, PyQt5*
-- 🧠 Built and trained a **CNN to classify images with 92% accuracy** on custom datasets
-- 💻 Developed a **real-time image classification GUI** using PyQt5 and OpenCV
-- 🔄 Implemented data augmentation and preprocessing pipelines to improve model generalization
-
-### 🏠 [Land Price Prediction Model](https://github.com/Abhishekprasad08/land-price-prediction)
-*January 2024 | Python, Scikit-learn, Pandas*
-- 🏘️ Analyzed **10k+ real estate listings** to predict land prices using linear and polynomial regression
-- 📈 Engineered features from geographic and structural data to **boost model performance by 15%**
-- 📊 Visualized key insights using Matplotlib and Seaborn for stakeholder presentation
 
 ---
 
