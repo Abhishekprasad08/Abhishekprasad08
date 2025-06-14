@@ -13,28 +13,6 @@
 
 ## 🚀 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Abhishek Prasad"
-        self.role = "Data Science Engineer & Quantitative Analyst"
-        self.location = "Dibrugarh, Assam, India"
-        self.education = "B.Tech Computer Science (LPU) + Diploma Aeronautical Engineering"
-        self.current_focus = "Building ML pipelines and quantitative trading strategies"
-        self.languages = ["Python", "SQL", "Java", "JavaScript", "HTML/CSS"]
-        self.specialties = ["Machine Learning", "Deep Learning", "Computer Vision", 
-                          "Quantitative Analysis", "Financial Modeling", "Data Visualization"]
-        self.tools = ["TensorFlow", "Scikit-learn", "OpenCV", "Tableau", 
-                     "PostgreSQL", "Pandas", "NumPy"]
-        self.interests = ["Stock Market Trading", "Index Fund Investing", "Algorithmic Trading"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's turn data into profitable insights! 📊💰")
-
-me = DataScientist()
-me.say_hi()
-```
-
 - 🔭 **Currently working on:** Advanced ML models and quantitative trading strategies
 - 🌱 **Learning:** Algorithmic Trading, Advanced Computer Vision, Financial Risk Modeling
 - 👯 **Looking to collaborate on:** ML research projects, Fintech applications, and trading algorithms
@@ -186,7 +164,6 @@ me.say_hi()
 - [ ] Deploy 3 quantitative trading algorithms in live market
 - [ ] Complete advanced ML certifications (AWS ML Specialty)
 - [ ] Build an end-to-end automated trading platform
-- [ ] Contribute to 5 major open-source data science projects
 - [ ] Achieve consistent 15%+ annual returns in stock market
 - [ ] Publish research on ML applications in finance
 - [ ] Mentor 10 aspiring data scientists and traders
