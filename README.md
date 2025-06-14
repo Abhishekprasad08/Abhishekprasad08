@@ -18,7 +18,6 @@
 - 👯 **Looking to collaborate on:** ML research projects, Fintech applications, and trading algorithms
 - 💬 **Ask me about:** Machine Learning, Computer Vision, Quantitative Analysis, or Stock Market Trading
 - 📫 **Reach me at:** iamabhishekprasad1@gmail.com
-- 📱 **Contact:** +91-7002452778
 - ⚡ **Fun fact:** I combine my engineering background with finance to create profitable trading algorithms!
 
 ---
@@ -39,12 +38,8 @@
 ---
 
 ## 🎓 Education
-
-**🏛️ Lovely Professional University** | *Aug 2021 – Jul 2024*  
-**Bachelor of Technology in Computer Science** | Phagwara, Punjab
-
-**✈️ Bhubaneshwar Engineering College** | *Jul 2017 – Jul 2020*  
-**Diploma in Aeronautical Engineering** | Bhubaneshwar, Odisha
+**Bachelor of Technology in Computer Science** |
+**Diploma in Aeronautical Engineering** | 
 
 ---
 
